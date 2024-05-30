@@ -1,0 +1,67 @@
+.logo{
+  width: 100px;
+  margin-left: 100px;
+}
+.text{
+  color: white;
+}
+.download-button {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+.dp{
+  width: 250px;
+}
+.des{
+  width: 50%;
+}
+.btn{
+  margin-right: 15px;
+  margin-bottom: 10px;
+}
+.experience{
+  margin-top: 50px;
+  margin-bottom: 20px;
+  margin-left: 70px;
+}
+.options1{
+  width: 60%;
+  margin-left: 90px;
+}
+.options2{
+  margin-left: 90px;
+}
+.contact{
+  border: 2px solid gray;
+  box-shadow: 4px 4px 8px gray;
+  margin-left: 60px;
+  margin-right:  60px;
+  margin-bottom: 50px;
+}
+.input{
+  margin-top: 25px;
+  background-color:#212529;
+  padding: 10px;
+  width: 50%;
+  margin-top: 10px;
+}
+.message{
+  background-color:#212529;
+  padding: 10px;
+  margin-top: 10px;
+  width: 60%;
+  height: 100px;
+}
+.submit-btn{
+  color: aqua;
+  width: 50%;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: gray;
+}
+.fa-brands{
+  margin-right: 20px;
+}
